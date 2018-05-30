@@ -1,0 +1,8 @@
+{
+    "name": "Steamworks.NET",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}

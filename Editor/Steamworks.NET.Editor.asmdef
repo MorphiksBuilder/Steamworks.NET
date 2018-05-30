@@ -1,0 +1,10 @@
+{
+    "name": "Steamworks.NET.Editor",
+    "references": ["Steamworks.NET"],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}
