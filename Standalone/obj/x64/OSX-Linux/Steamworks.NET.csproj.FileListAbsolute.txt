@@ -5,7 +5,7 @@ G:\Development\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\obj
 G:\Development\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\obj\x64\OSX-Linux\Steamworks.NET.pdb
 G:\Development\anima-project-game-server\Sources\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\bin\x64\OSX-Linux\Steamworks.NET.dll
 G:\Development\anima-project-game-server\Sources\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\bin\x64\OSX-Linux\Steamworks.NET.pdb
-G:\Development\anima-project-game-server\Sources\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\obj\x64\OSX-Linux\Steamworks.NET.csprojResolveAssemblyReference.cache
 G:\Development\anima-project-game-server\Sources\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\obj\x64\OSX-Linux\Steamworks.NET.csproj.CoreCompileInputs.cache
 G:\Development\anima-project-game-server\Sources\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\obj\x64\OSX-Linux\Steamworks.NET.dll
 G:\Development\anima-project-game-server\Sources\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\obj\x64\OSX-Linux\Steamworks.NET.pdb
+G:\Development\anima-project-game-server\Sources\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\obj\x64\OSX-Linux\Steamworks.NET.csprojAssemblyReference.cache
