@@ -14,7 +14,8 @@
     <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Windows|x86'">
-    <OutputPath>bin\x86\Windows\</OutputPath>
+    <OutputPath>.bin\x86\Windows\</OutputPath>
+    <BaseIntermediateOutputPath>.obj/</BaseIntermediateOutputPath>
     <DefineConstants>TRACE;STEAMWORKS_WIN;STEAMWORKS_X86</DefineConstants>
     <Optimize>true</Optimize>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
@@ -24,7 +25,8 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'OSX-Linux|x86'">
-    <OutputPath>bin\x86\OSX-Linux\</OutputPath>
+    <OutputPath>.bin\x86\OSX-Linux\</OutputPath>
+    <BaseIntermediateOutputPath>.obj/</BaseIntermediateOutputPath>
     <DefineConstants>TRACE;STEAMWORKS_LIN_OSX;STEAMWORKS_X86</DefineConstants>
     <Optimize>true</Optimize>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
@@ -34,7 +36,8 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Windows|x64'">
-    <OutputPath>bin\x64\Windows\</OutputPath>
+    <OutputPath>.bin\x64\Windows\</OutputPath>
+    <BaseIntermediateOutputPath>.obj/</BaseIntermediateOutputPath>
     <DefineConstants>TRACE;STEAMWORKS_WIN;STEAMWORKS_X64</DefineConstants>
     <Optimize>true</Optimize>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
@@ -44,7 +47,8 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'OSX-Linux|x64'">
-    <OutputPath>bin\x64\OSX-Linux\</OutputPath>
+    <OutputPath>.bin\x64\OSX-Linux\</OutputPath>
+    <BaseIntermediateOutputPath>.obj/</BaseIntermediateOutputPath>
     <DefineConstants>TRACE;STEAMWORKS_LIN_OSX;STEAMWORKS_X64</DefineConstants>
     <Optimize>true</Optimize>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
