@@ -1,1 +1,3 @@
-Standalone/obj/**/*.cache*
+#ignore generated files, makes the project dirty each time
+Standalone/.bin
+Standalone/.obj

@@ -1,5 +1,0 @@
-H:\Development\anima-project-game-server\Sources\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\.bin\x64\OSX-Linux\Steamworks.NET.dll
-H:\Development\anima-project-game-server\Sources\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\.bin\x64\OSX-Linux\Steamworks.NET.pdb
-H:\Development\anima-project-game-server\Sources\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\.obj\x64\OSX-Linux\Steamworks.NET.dll
-H:\Development\anima-project-game-server\Sources\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\.obj\x64\OSX-Linux\Steamworks.NET.pdb
-H:\Development\anima-project-game-server\Sources\anima-project-commons\Scripts\Steam\Steamworks.NET\Standalone\.obj\x64\OSX-Linux\Steamworks.NET.csprojAssemblyReference.cache
