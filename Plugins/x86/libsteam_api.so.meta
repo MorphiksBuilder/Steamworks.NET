@@ -1,23 +1,24 @@
 fileFormatVersion: 2
-guid: 64c143a89c4ed384086b2a97fdfaac67
-timeCreated: 1527492933
-licenseType: Pro
+guid: 3b0dd8df6b2f3364caf498784ea3be62
 PluginImporter:
   externalObjects: {}
   serializedVersion: 2
   iconMap: {}
   executionOrder: {}
+  defineConstraints: []
   isPreloaded: 0
   isOverridable: 0
+  isExplicitlyReferenced: 0
+  validateReferences: 1
   platformData:
   - first:
-      '': OSXIntel
+      : OSXIntel
     second:
       enabled: 1
       settings:
         CPU: AnyCPU
   - first:
-      '': OSXIntel64
+      : OSXIntel64
     second:
       enabled: 0
       settings:
